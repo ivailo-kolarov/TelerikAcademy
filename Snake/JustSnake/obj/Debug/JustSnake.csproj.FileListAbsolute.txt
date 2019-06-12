@@ -1,0 +1,7 @@
+C:\Ivo\Snake\JustSnake\bin\Debug\JustSnake.exe.config
+C:\Ivo\Snake\JustSnake\bin\Debug\JustSnake.exe
+C:\Ivo\Snake\JustSnake\bin\Debug\JustSnake.pdb
+C:\Ivo\Snake\JustSnake\obj\Debug\JustSnake.csprojResolveAssemblyReference.cache
+C:\Ivo\Snake\JustSnake\obj\Debug\JustSnake.csproj.CoreCompileInputs.cache
+C:\Ivo\Snake\JustSnake\obj\Debug\JustSnake.exe
+C:\Ivo\Snake\JustSnake\obj\Debug\JustSnake.pdb
